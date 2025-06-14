@@ -25,4 +25,10 @@ private void modifycontactTest() {
 	// TODO Auto-generated method stub
 System.out.println("execute modifycontactTest");
 }
+
+@Test
+private void deletecontactTest() {
+	// TODO Auto-generated method stub
+System.out.println("execute DELETEcontactTest");
+}
 }

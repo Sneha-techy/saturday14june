@@ -7,4 +7,8 @@ public class SuperExcitedTest {
 	public void happy() {
 		System.out.println("YOu are very SuperExcited");
 	}
+	@Test
+	public void applehappy() {
+		System.out.println("YOu are very apple SuperExcited");
+	}
 }
